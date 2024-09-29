@@ -1,0 +1,14 @@
+{
+    "name": "example-static-js-app",
+    "main": "index.js",
+    "scripts": {
+        "start": "http-server --cors"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alex-toy/MicrosoftGraphJavascript.git"
+    },
+    "devDependencies": {
+        "http-server": "^13.0.1"
+    }
+}
